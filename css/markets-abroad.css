@@ -340,10 +340,6 @@ a:focus {
     ul.banner-social-buttons {
         margin-top: 15px;
     }
-    .logo {
-        width: 370px;
-        height: auto;
-    }
 }
 
 @media(max-width:767px) {
